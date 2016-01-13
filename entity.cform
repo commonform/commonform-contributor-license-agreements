@@ -2,7 +2,7 @@ Thank you for your interest in [Project Name] (the ""Project""). In order to cla
 
     \\
 
-        \\ This version of the Agreement allows an entity (the ""Corporation"") to submit <Contributions> to the <Maintainer>, to authorize <Contributions> submitted by its designated employees to the <Maintainer>, and to grant copyright and patent licenses thereto.
+        \\ This version of the Agreement allows an entity (the ""Legal Entity"") to submit <Contributions> to the <Maintainer>, to authorize <Contributions> submitted by its designated employees to the <Maintainer>, and to grant copyright and patent licenses thereto.
 
         \\ If you have not already done so, please complete and sign, then scan and email a PDF file of this Agreement to [Maintainer Email]. Please read this document carefully before signing and keep a copy for your records.
 
@@ -21,7 +21,7 @@ Thank you for your interest in [Project Name] (the ""Project""). In order to cla
 
         \ Grant of Patent License \ Subject to the terms and conditions of this Agreement, <You> hereby grant to the <Maintainer> and to recipients of software distributed by the <Maintainer> a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the <Work>, where such license applies only to those patent claims licensable by <You> that are necessarily infringed by <Your> <Contribution>(s) alone or by combination of <Your> <Contribution>(s) with the <Work> to which such <Contribution>(s) were submitted. If any entity institutes patent litigation against <You> or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that your <Contribution>, or the <Work> to which you have contributed, constitutes direct or contributory patent infringement, then any patent licenses granted to that entity under this Agreement for that <Contribution> or <Work> shall terminate as of the date such litigation is filed.
 
-            \\ <You> represent that <You> are legally entitled to grant the above license. <You> represent further that each employee of the <Corporation> designated on {Initial List of Designated Employees} (or in a subsequent written modification to {Initial List of Designated Employees}) is authorized to submit <Contributions> on behalf of the <Corporation>.
+            \\ <You> represent that <You> are legally entitled to grant the above license. <You> represent further that each employee of the <Legal Entity> designated on {Initial List of Designated Employees} (or in a subsequent written modification to {Initial List of Designated Employees}) is authorized to submit <Contributions> on behalf of the <Legal Entity>.
 
             \\ <You> represent that each of <Your> <Contributions> is <Your> original creation (see {Third-Party Material} for submissions on behalf of others).
 
@@ -31,7 +31,7 @@ Thank you for your interest in [Project Name] (the ""Project""). In order to cla
 
         \ Third-Party Material \ Should <You> wish to submit work that is not <Your> original creation, <You> may submit it to the <Maintainer> separately from any <Contribution>, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: (named here)".
 
-            \\ It is your responsibility to notify the <Maintainer> when any change is required to the list of designated employees authorized to submit <Contributions> on behalf of the <Corporation>, or to the <Corporation>'s Point of Contact with the <Maintainer>.
+            \\ It is your responsibility to notify the <Maintainer> when any change is required to the list of designated employees authorized to submit <Contributions> on behalf of the <Legal Entity>, or to the <Legal Entity>'s Point of Contact with the <Maintainer>.
 
     \\
 

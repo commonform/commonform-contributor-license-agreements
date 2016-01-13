@@ -1,5 +1,5 @@
 COMMONFORM=./node_modules/.bin/commonform
-TARGETS=icla cla-corporate
+TARGETS=icla entity
 SOURCE=terms.cform
 
 all: $(TARGETS:=.docx) $(TARGETS:=.pdf) $(TARGETS:=.txt)
